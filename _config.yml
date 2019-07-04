@@ -1,4 +1,4 @@
-layout: stacked
+layout: sidebar
 style: light
 
 plugins:
@@ -25,6 +25,9 @@ projects:
   exclude:
     forks: true
     projects:
+      - kubeletter-clojure
+      - dotfiles
+      - try-keytty
     # - repo-name
 
 social_media:
