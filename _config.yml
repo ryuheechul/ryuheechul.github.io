@@ -42,10 +42,6 @@ social_media:
   medium: ryuheechul
 
 topics:
-  - name: DevOps
-    web_url: https://github.com/topics/devops
-    image_url: https://alln-extcloud-storage.cisco.com/ciscoblogs/5d37d7284e6e8-768x395.png
-
   - name: Docker
     web_url: https://github.com/topics/docker
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
@@ -65,3 +61,7 @@ topics:
   - name: Vault
     web_url: https://www.vaultproject.io
     image_url: https://s3.amazonaws.com/hashicorp-marketing-web-assets/brand/Vault_VerticalLogo_FullColor.B1xPC0pSax.svg
+
+  - name: DevOps
+    web_url: https://github.com/topics/devops
+    image_url: https://alln-extcloud-storage.cisco.com/ciscoblogs/5d37d7284e6e8-768x395.png
